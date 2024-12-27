@@ -1,0 +1,21 @@
+{
+    "name": "framework/astro",
+    "description": "Mini framework mvc com php.",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Cláudio Victor",
+            "email": "barrosclaudio147@gmail.com"
+        }
+    ],
+    "autoload" : {
+        "psr-4" : {
+            "App\\" : "app/",
+            "Core\\" : "core/"
+        }
+    },
+    "require": {
+        "php" : ">=7.4"
+    }
+}
