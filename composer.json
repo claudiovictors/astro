@@ -1,5 +1,5 @@
 {
-    "name": "framework/astro",
+    "name": "astro/astro",
     "description": "Mini framework mvc com php.",
     "type": "project",
     "license": "MIT",
